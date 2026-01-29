@@ -45,9 +45,8 @@ Password Strength Checker
 Random Password Generator
 
 Hash Generator (MD5 / SHA256)
-## 📸 Screenshots
+## 📸 Screenshot
 
-### Main Menu
 ![Menu](images/menu.png)
 
 
