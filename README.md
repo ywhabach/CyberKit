@@ -48,7 +48,8 @@ Hash Generator (MD5 / SHA256)
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](images/menu.png)
+![Menu](images/menu.png)
+
 
 📂 Project Structure
 cyberkit/
@@ -104,7 +105,7 @@ The author is not responsible for any misuse of this tool.
 
 👨‍💻 Author
 
-Name: Osama Al-Matari,Tareq Alqushaibi,Ahmed alsanabani,Naif Alahmadi,Abdalhameed Alobadi
+Name: Osama Al-Matari,aiman moejip,Ahmed alsanabani,Naif Alahmadi,Abdalhameed Alobadi
 
 Field: Cybersecurity Students
 
