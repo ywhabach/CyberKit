@@ -47,7 +47,7 @@ Random Password Generator
 Hash Generator (MD5 / SHA256)
 ## 📸 Screenshot
 
-![Menu](images/menu.png)
+![Menu](images/banner.png)
 
 
 📂 Project Structure
